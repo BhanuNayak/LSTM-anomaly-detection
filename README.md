@@ -1,5 +1,5 @@
 # LSTM-Anomaly-detection
-Anomaly detection using LSTM autoencoders
+Detecting anomalies with LSTM autoencoders
 
 
 References:
